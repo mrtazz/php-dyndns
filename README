@@ -1,0 +1,2 @@
+A php web-frontend to enter a hostname, which is then added to a desired
+DNS zone. Originally written for megabit.nl 2006
